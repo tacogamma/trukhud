@@ -1,2 +1,4 @@
+<div align="center">
+  
 # trukhud
-Based on hud used by FUNKe in ~2016
+### Based on a hud used by FUNKe in ~2016
