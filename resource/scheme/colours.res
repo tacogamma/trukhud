@@ -16,10 +16,10 @@ Scheme
 		"OmpGreenBG"        "50 150 0 255" // 50 150 0
 		
 		"OmpHP"				"255 255 255 255"
-		"OmpHPBuff"			"50 150 0 255"
+		"OmpHPBuff"			"125 225 30 255"
 		"OmpHPLow"			"255 0 0 255" // "255 200 30 255"
 		"OmpSpecHP"			"255 255 255 255"
-		"OmpSpecHPBuff"		"50 150 0 255"
+		"OmpSpecHPBuff"		"125 225 30 255"
 		"OmpSpecHPLow"		"255 0 0 255"
 		
 		"OmpAmmoClip"		"255 255 255 255" // "30 225 225 255"
@@ -32,7 +32,7 @@ Scheme
 		"OmpAmmoReserveLow1"	"255 0 0 255"
 		"OmpAmmoReserveLow2"	"255 0 0 255" // "200 30 30 255"
 		
-		"OmpHealNumbers"	"50 150 0 255"
+		"OmpHealNumbers"	"125 225 30 255"
 		"OmpDamageNumbers"	"255 255 30 255"
 		
 		"OmpMeterLabel"		"125 125 125 255"
